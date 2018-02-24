@@ -1,6 +1,6 @@
 __author__ = "Onurcan EVREN"
 
-girdi = int(input("Buraya saniye giriniz...:"))
+girdi = int(input("Saniye cinsinden bir değer giriniz...:"))
 print("-"*53)
 print("")
 
